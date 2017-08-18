@@ -1,4 +1,4 @@
-# IPTV Sharp 1.2
+# IPTV Sharp 1.3
 Windows GUI version of iptv tool
 
 ## Disclaimer
@@ -6,7 +6,7 @@ This program is just a demo. DO NOT USE IT FOR PERSONAL purpose
 
 ## Usage
  Requires .NET Framework 4.5.2<br>
- Download a release from: [here](https://github.com/Pirate-Crew/IPTV-Sharp/releases/download/1.2/IPTV-Sharp-1.2.zip)<br>
+ Download a release from: [here](https://github.com/DEVELOPERSECRETTV/IPTV-Sharp/releases/download/1.3/IPTV-Sharp-1.2.zip)<br>
  Extract it somewhere<br>
  Open IPTV Sharp.exe <br>
  Select a server from target selector or input your own<br>
