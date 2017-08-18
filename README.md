@@ -17,4 +17,4 @@ This program is just a demo. DO NOT USE IT FOR PERSONAL purpose
 
 
 ## Credits
-This version was coded by: AMERIKANO TUGA
+This version was coded by: DEVELOPER
