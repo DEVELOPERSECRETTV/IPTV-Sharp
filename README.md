@@ -17,5 +17,4 @@ This program is just a demo. DO NOT USE IT FOR PERSONAL purpose
 
 
 ## Credits
-This version was coded by: [@Arm4x](https://twitter.com/Arm4x) and [@Delfioh](https://twitter.com/Delfioh)<br><br>
-IPTV/PirateCrew team: [@Arm4x](https://twitter.com/Arm4x) [@Pinperepette](https://twitter.com/Pinperepette) [@Ludo237](https://twitter.com/Ludo237)
+This version was coded by: AMERIKANO TUGA
